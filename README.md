@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Hyunsu
 <img src="https://user-images.githubusercontent.com/26635607/140984068-f2f254ea-86f3-4f03-97c7-e355301de02e.png" height="170px">
 
-
-- 🔭 I’m currently working on react-accessible-avatarpeeps react svg library 
 - 🌱 I’m currently learning React, TypeScript, Redux  
 - 🤔 I’m looking for help with AWS 
 - 💬 Talk to me about JavaScript, React, Web.
@@ -27,6 +25,4 @@
 
 <!-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>   -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sooster910&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sooster910)  
