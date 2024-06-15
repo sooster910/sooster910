@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning  TypeScript and cloud computing with AWS.<br><br>🎯 Goals: To contribute to open-source projects more often, develop a full-stack application, and become a better Product Engineer<br><br>🎲 Fun fact: I have several years of experience as a ski instructor⛷️.<br> Hold licenses as a Lifeguard🏊, Level 2 ski instructor, and badminton🏸 instructor.</p>
+<p align="left">📚 I'm currently learning  TypeScript and cloud computing with AWS.<br><br>🎯 Goals: To contribute to open-source projects more often, develop a full-stack application, and become a better Product Engineer<br><br>🎲 Fun fact: I have several years of experience as a ski instructor⛷️.<br> Hold licenses as a Lifeguard🏊, Level 2 ski instructor, and badminton🏸 instructor.</p><br><p>📝 I write blog posts: https://hyunsu.wiki </p>
 
 ###
 
