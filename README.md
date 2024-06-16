@@ -48,4 +48,11 @@
 - https://github.com/mui/mui-x/pull/12216
 - https://github.com/twentyhq/twenty/pull/4329
 
-###
+
+
+### 
+<h2 align="left">  Algorithm Learning Path: Consistency Through LeetCode </h2>
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/suya9880?theme=nord&font=Cantarell&ext=heatmap)
+
