@@ -2,7 +2,7 @@
 
 ###
 
- #### Hello! I'm Hyunsu, a passionate software developer with a strong background in web development.
+ #### Hello! I'm Hyunsu, a passionate software developer with a comprehensive background in web development.
  - I love turning complex problems into simple and intuitive solutions.
  - My main focus is on front-end development, and I'm always excited to learn new technologies to **deliver the best user experience**.
 <br/>
