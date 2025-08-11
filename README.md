@@ -1,3 +1,5 @@
+![Profile Header](./assets/header.png)
+
 <h1 align="center"> 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Hensley</h1>  
 <p align="center">
 🔗 GraphQL newbie
@@ -8,11 +10,9 @@
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hyunsujoo0609@gmail.com) 
 
-
 ## 💻 Tech Stack:
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
 
 ## 🔝 Top Open Source Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=sooster910&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
@@ -22,7 +22,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sooster910&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sooster910&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
 ## Algorithm Learning Path: Consistency Through LeetCod
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/suya9880?theme=nord&font=Cantarell&ext=heatmap) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=algo_sue)](https://solved.ac/백준아이디/)
