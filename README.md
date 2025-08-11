@@ -1,55 +1,28 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
- #### Hello! I'm Hyunsu, a passionate software developer with a comprehensive background in web development.
- - I love turning complex problems into simple and intuitive solutions.
- - My main focus is on front-end development, and I'm always excited to learn new technologies to **deliver the best user experience**.
+<h1 align="center"> 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Hensley</h1>  
+<p align="center">
+🔗 GraphQL newbie
+📦 Exploring npm ecosystem
+💡 𝑭𝒓𝒆𝒔𝒉 𝒂𝒊𝒓, 𝒇𝒓𝒆𝒔𝒉 𝒄𝒐𝒅𝒆, 𝒇𝒓𝒆𝒔𝒉 𝒊𝒅𝒆𝒂𝒔.
 <br/>
+</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning  TypeScript and cloud computing with AWS.<br><br>🎯 Goals: To contribute to open-source projects more often, develop a full-stack application, and become a better Product Engineer<br><br>🎲 Fun fact: I have several years of experience as a ski instructor⛷️.<br> Hold licenses as a Lifeguard🏊, Level 2 ski instructor, and badminton🏸 instructor.</p><br>
-<br/>
-
-###
-
-<h2 align="left"> A Recent Open Source Contribution </h2>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hyunsujoo0609@gmail.com) 
 
 
-- https://github.com/vercel/turbo/pull/7683
-- https://github.com/mui/mui-x/pull/12216
-- https://github.com/twentyhq/twenty/pull/4329
-
-<br/>
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javacript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
-<br/>
+## 💻 Tech Stack:
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sooster910&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 
-<h2 align="left">  Algorithm Learning Path: Consistency Through LeetCode </h2>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sooster910&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sooster910&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sooster910&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/suya9880?theme=nord&font=Cantarell&ext=heatmap)
+## Algorithm Learning Path: Consistency Through LeetCod
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/suya9880?theme=nord&font=Cantarell&ext=heatmap) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=algo_sue)](https://solved.ac/백준아이디/)
