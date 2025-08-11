@@ -14,7 +14,7 @@
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Open Source Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=sooster910&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ## 📊 GitHub Stats:
