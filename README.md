@@ -17,6 +17,11 @@
 ## 🔝 Top Open Source Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=sooster910&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+## Things I Write About
+
+- [Module Subscription, ContextAPI](https://www.hyunsujoo.wiki/posts/global_state_thought/)
+- [TypeScript Freshness](https://www.hyunsujoo.wiki/posts/freshness/)
+
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 
 [![hensley-UI](https://svg.bookmark.style/api?url=https://github.com/sooster910/hensley-ui&mode=light&style=horizontal)](https://github.com/sooster910/hensley-ui)
 
