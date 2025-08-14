@@ -18,13 +18,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sooster910&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ## Things I Write About
-
-- [Module Subscription, ContextAPI](https://www.hyunsujoo.wiki/posts/global_state_thought/)
-- [TypeScript Freshness](https://www.hyunsujoo.wiki/posts/freshness/)
+| Title      |
+|------------|
+| [Module Subscription, ContextAPI](https://www.hyunsujoo.wiki/posts/global_state_thought/) |
+| [TypeScript Freshness](https://www.hyunsujoo.wiki/posts/freshness/)|
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 
 
-### Project
+### Projects
 | Title      |   Description    | Project |
 |------------|------------|------------|
 | hensley-UI | UI component library  | [![hensley-UI](https://svg.bookmark.style/api?url=https://github.com/sooster910/hensley-ui&mode=light&style=horizontal)](https://github.com/sooster910/hensley-ui) |
@@ -39,5 +40,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=sooster910&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
-## Algorithm Learning Path: Consistency Through LeetCod
+## Algorithm Learning Path: Consistency Through LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/suya9880?theme=nord&font=Cantarell&ext=heatmap) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=algo_sue)](https://solved.ac/백준아이디/)
