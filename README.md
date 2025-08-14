@@ -23,7 +23,17 @@
 - [TypeScript Freshness](https://www.hyunsujoo.wiki/posts/freshness/)
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 
-[![hensley-UI](https://svg.bookmark.style/api?url=https://github.com/sooster910/hensley-ui&mode=light&style=horizontal)](https://github.com/sooster910/hensley-ui)
+
+### Project
+| Title      |   Description    | Project |
+|------------|------------|------------|
+| hensley-UI | UI component library  | [![hensley-UI](https://svg.bookmark.style/api?url=https://github.com/sooster910/hensley-ui&mode=light&style=horizontal)](https://github.com/sooster910/hensley-ui) |
+
+### Code Snippets (FP)
+
+| Title      |   Description    | Link     |
+|------------|------------|------------|
+| Iterator    | Array Iterator/Function-based Iterator | [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://gist.github.com/sooster910/aadbc19f22fcf8de020b673594568acd&mode=light&style=horizontal)](https://gist.github.com/sooster910/aadbc19f22fcf8de020b673594568acd) |
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sooster910&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
