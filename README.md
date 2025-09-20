@@ -20,6 +20,7 @@
 ## Things I Write About
 | Title      |
 |------------|
+| [TypeScript Module Resolution Algorithm & vite resolvePackageEntry](https://www.hyunsujoo.wiki/posts/typescript-module-resolution-vite/)
 | [Module Subscription, ContextAPI](https://www.hyunsujoo.wiki/posts/global_state_thought/) |
 | [TypeScript Freshness](https://www.hyunsujoo.wiki/posts/freshness/)|
 
