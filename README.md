@@ -41,5 +41,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=sooster910&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
-## Algorithm Learning Path: Consistency Through LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/suya9880?theme=nord&font=Cantarell&ext=heatmap) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=algo_sue)](https://solved.ac/백준아이디/)
+<!-- ## Algorithm Learning Path: Consistency Through LeetCode
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/suya9880?theme=nord&font=Cantarell&ext=heatmap) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=algo_sue)](https://solved.ac/백준아이디/) -->
