@@ -15,7 +15,7 @@ Frontend Developer
 [turborepo Documentation](https://github.com/vercel/turborepo/pull/7683)  
 [Electron APP-TimeToLeave](https://github.com/TTLApp/time-to-leave/pull/547)  
 [Chrome extension eztrackr](https://github.com/HarshdipD/eztrackr/pull/37)  
-[Twenty CRTM Sass app](https://github.com/twentyhq/twenty/pull/4329)
+[Twenty CRM Sass app](https://github.com/twentyhq/twenty/pull/4329)
 
 #### Things I Write About
 | Title      |
